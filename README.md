@@ -6,4 +6,6 @@ Execute Apache24\bin\httpd.exe to launch Apache on your computer.
 
 Type the following URL adress: http://localhost:8080/#!/
 
+![alt tag](It works.png)
+
 You can also manage Apache by executing Apache24\bin\ApacheMonitor.exe
