@@ -39,3 +39,8 @@ Apache server interrupted...
 [Tue Mar 22 14:38:18.471934 2016] [mpm_winnt:notice] [pid 1920:tid 292] AH00422: Parent: Received shutdown signal -- Shutting down the server.
 [Tue Mar 22 14:38:20.471937 2016] [mpm_winnt:notice] [pid 1324:tid 188] AH00364: Child: All worker threads have exited.
 [Tue Mar 22 14:38:20.491937 2016] [mpm_winnt:notice] [pid 1920:tid 292] AH00430: Parent: Child process 1324 exited successfully.
+[Tue Mar 22 15:42:01.268226 2016] [mpm_winnt:notice] [pid 4744:tid 168] AH00455: Apache/2.4.18 (Win64) configured -- resuming normal operations
+[Tue Mar 22 15:42:01.268226 2016] [mpm_winnt:notice] [pid 4744:tid 168] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 11:13:29
+[Tue Mar 22 15:42:01.268226 2016] [core:notice] [pid 4744:tid 168] AH00094: Command line: 'httpd.exe -d C:/serveurs/B2D-server/Apache24'
+[Tue Mar 22 15:42:01.268226 2016] [mpm_winnt:notice] [pid 4744:tid 168] AH00418: Parent: Created child process 2552
+[Tue Mar 22 15:42:01.658227 2016] [mpm_winnt:notice] [pid 2552:tid 188] AH00354: Child: Starting 64 worker threads.
